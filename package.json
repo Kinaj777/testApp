@@ -19,11 +19,15 @@
     "@angular/platform-browser": "~11.0.3",
     "@angular/platform-browser-dynamic": "~11.0.3",
     "@angular/router": "~11.0.3",
+    "async": "^3.2.0",
+    "ipfs": "^0.52.2",
     "rxjs": "~6.6.0",
     "tslib": "^2.0.0",
     "zone.js": "~0.10.2"
   },
   "devDependencies": {
+    "@angular-builders/custom-webpack": "^10.0.1",
+    "@angular-builders/dev-server": "^7.3.1",
     "@angular-devkit/build-angular": "~0.1100.3",
     "@angular/cli": "~11.0.3",
     "@angular/compiler-cli": "~11.0.3",
